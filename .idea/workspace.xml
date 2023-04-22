@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e411bcd6-ee10-4b6c-a76c-0aa560ab554e" name="Changes" comment="Opening site on chrome driver" />
+    <list default="true" id="e411bcd6-ee10-4b6c-a76c-0aa560ab554e" name="Changes" comment="Add argument for open browser in incognito mode" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,13 +68,52 @@
       <option name="project" value="LOCAL" />
       <updated>1682172292834</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Opening site on chrome driver">
+      <created>1682172578210</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682172578210</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add argument for open browser in incognito mode">
+      <created>1682173463256</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682173463256</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="4aab0efb-b487-490f-b34a-0a54d11ca085">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="93936799-0135-45d4-a5ec-1088cc04eb99">
           <value>
             <State>
               <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
@@ -106,9 +145,15 @@
         </entry>
       </map>
     </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="93936799-0135-45d4-a5ec-1088cc04eb99" value="TOOL_WINDOW" />
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Opening site on chrome driver" />
-    <option name="LAST_COMMIT_MESSAGE" value="Opening site on chrome driver" />
+    <MESSAGE value="Add argument for open browser in incognito mode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add argument for open browser in incognito mode" />
   </component>
 </project>

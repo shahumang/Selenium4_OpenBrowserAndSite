@@ -21,6 +21,8 @@ public class Baseclass {
 
         //Maximize Chrome driver
         options.addArguments("--start-maximized");
+        //Open Browser in incognito more
+        options.addArguments("--incognito");
 
         //Passing chromedriver as reference and default it's creating constructor and passing object of chromedriver
         webDriver = new ChromeDriver(options);
